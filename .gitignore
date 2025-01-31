@@ -1,0 +1,27 @@
+# Built files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Gradle files
+.gradle/
+build/
+.idea/
+*.iml
+
+# Local configuration files
+*.properties
+*.keystore
+
+# Log files
+*.log
+
+# External native build files
+.externalNativeBuild/
+.cxx/
+
+# Android Studio files
+.DS_Store
+capture/
+local.properties
