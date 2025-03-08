@@ -1,3 +1,44 @@
 <resources>
     <string name="app_name">Fit-Track</string>
+
+    <string name="account">Account</string>
+    <string name="goals">Goals</string>
+    <string name="my_exercises">My Exercises</string>
+    <string name="whats_new">What\'s New</string>
+    <string name="my_progress">My Progress</string>
+    <string name="all_exercises">All Exercises</string>
+
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="dont_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="app_logo">Fit Track Logo</string>
+    <string name="image">image</string>
+
+    <string name="name"> Enter Name</string>
+    <string name="age">Enter Age</string>
+    <string name="email">Enter email address</string>
+    <string name="height">Enter Height</string>
+    <string name="weight">Enter Weight</string>
+    <string name="password">Enter Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="new_user_header">Create New Account</string>
+    <string name="enter_height">Enter Height</string>
+    <string name="enter_weight">Enter Weight</string>
+    <string name="update_account">Update Account</string>
+    <string name="update">Update</string>
+    <string name="set_goal">Set Goal</string>
+    <string name="set_weekly_goal_hours">Set Weekly Goal Hours</string>
+    <string name="save_hours">Save Hours</string>
+    <string name="set_expected_weight">Set expected weight</string>
+    <string name="save_goals">Save Goals</string>
+    <string name="ongoing_progress">Ongoing Progress</string>
+    <string name="expected_weekly_hours">Expected weekly Hours</string>
+    <string name="current_hours">Current Hours</string>
+    <string name="expected_weight">Expected Weight</string>
+    <string name="current_weight">Current Weight</string>
+    <string name="save_progress">Save Progress</string>
+
+
 </resources>
